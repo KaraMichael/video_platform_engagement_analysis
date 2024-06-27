@@ -13,7 +13,7 @@ This project involves data gathering, augmentation, and analysis. The workflow i
 1. **data_fetching_01.ipynb**: A Python notebook (Google Colab) used for fetching and initial preprocessing of the data.
 2. **data_augmentation_02.ipynb**: A Python notebook (Google Colab) used for augmenting the fetched data to enhance its quality and utility.
 3. **data_analysis_03.R**: An R script used for the final analysis of the augmented data, generating the final insights and results.
-4. **data_analysis_03.R**: An R scr
+4. **video_platform_engagement_data_sample.csv**: An CSV with sample data aquired from step 1 and 2 of this process. 
 
 ## Getting Started
 
